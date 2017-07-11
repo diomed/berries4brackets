@@ -1,0 +1,15 @@
+{
+    "name": "berries",
+    "title": "berries",
+    "description": "Berries Theme Color Scheme",
+    "homepage": "https://github.com/diomed/berries",
+    "version": "1.0.0",
+    "author": "diomed",
+    "license": "MIT",
+    "theme": {
+        "file": "main.less",
+        "dark": true,
+        "addModeClass": true
+    },
+    "keywords": ["theme", "berries", "red", "blue"]
+}
